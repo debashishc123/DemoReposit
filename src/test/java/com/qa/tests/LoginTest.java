@@ -7,6 +7,9 @@ public class LoginTest {
 	public void loginTest()
 	{
 		System.out.println("test creation");
+		System.out.println("test data creation");
+		System.out.println("test data updation");
+		
 	}
 
 }
